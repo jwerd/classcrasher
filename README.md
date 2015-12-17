@@ -3,6 +3,8 @@ ClassCrasher
 
 This project requires the use of composer.  Run "composer update" to grab down the depedencies this project requires (such as the yii framework, and some third party library).  You can check composer.json to find out what exactly is required.
 
+Also, this project has an SQL dump located under sql/.
+
 Below is the basic skeleton structure from Yii:
 
 DIRECTORY STRUCTURE
